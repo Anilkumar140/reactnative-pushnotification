@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "519755670155",
+    "project_id": "push-notification-demo-ff9b8",
+    "storage_bucket": "push-notification-demo-ff9b8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:519755670155:android:211b65d1e8d3591aa1aa8e",
+        "android_client_info": {
+          "package_name": "com.centroxy.notification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "519755670155-1k1eafoulabn1479e319guis1b3mrq1t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLroP22Pfb8R_RQ75trm8ZqmmusnvLaIA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "519755670155-1k1eafoulabn1479e319guis1b3mrq1t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
